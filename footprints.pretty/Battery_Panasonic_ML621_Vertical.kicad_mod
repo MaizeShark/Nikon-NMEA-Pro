@@ -1,0 +1,136 @@
+(footprint "Battery_Panasonic_ML621_Vertical"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Panasonic ML621 battery")
+	(tags "battery ML621 coin cell vertical")
+	(property "Reference" "REF**"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6f3e8797-e2b5-4667-b8ee-4c2258396ab5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Battery_Panasonic_ML621_Vertical"
+		(at 0 1.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cea09522-2b86-478c-8fad-87fae42c9605")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba9a606b-2cd6-462e-a423-3fbe49613e6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d30f5d1-b4c4-4c6e-a386-5fb4c2593ea2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3.3 -1.65)
+		(end 3.4 0.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7de02f43-a10f-4282-87a1-0f172944b0c2")
+	)
+	(fp_rect
+		(start -3.6 -1.9)
+		(end 3.7 0.9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "457e68e0-91d0-4e97-8e46-3afc18f46c50")
+	)
+	(fp_text user "+"
+		(at -0.7 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6f43b26a-fa42-48c1-9115-f476c0333d88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8a422cdc-b66d-443e-8717-1a53d1f31650")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -0.7 0)
+		(size 0.9 0.5)
+		(drill oval 0.55 0.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "2f64a181-dd9d-490e-b655-b3e8227fe423")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0.7 0)
+		(size 0.9 0.5)
+		(drill oval 0.55 0.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "9e1270c2-171e-4b24-a364-6196d4dbe3bc")
+	)
+	(embedded_fonts no)
+	(model "/home/niclas/Downloads/ML-621S_ZTN.stp"
+		(offset
+			(xyz 0 1.6 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)
