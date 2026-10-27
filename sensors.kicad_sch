@@ -4695,7 +4695,7 @@
 				)
 			)
 		)
-		(property "Value" "BMP581"
+		(property "Value" "BMP384"
 			(at 247.65 109.1498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4738,7 +4738,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5362283"
+		(property "LCSC" "C5577555"
 			(at 234.95 113.03 0)
 			(hide yes)
 			(show_name no)
