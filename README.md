@@ -2,6 +2,9 @@
 
 A low-power GNSS logger and BLE remote shutter for Nikon cameras with the 10-pin connector. It is a work in progress: the hardware is designed, the PCB has not been built or tested, and the firmware has not been started.
 
+![Nikon-NMEA-Pro PCB, front side](docs/front.png)
+*Front of the PCB*
+
 ## Goals
 
 Older GPS units for Nikon cameras (GP-1, Solmeta GMAX) typically draw tens of mA continuously, are slow to get a cold fix, and have no wireless connectivity. This 35 x 35 mm module aims to improve on them:
@@ -17,6 +20,11 @@ Older GPS units for Nikon cameras (GP-1, Solmeta GMAX) typically draw tens of mA
 | Pending | PCB fabrication and assembly |
 | Pending | Power measurements (all current figures below are datasheet estimates) |
 | Not started | Firmware |
+
+## Camera connection
+
+> [!NOTE]
+> I connect the module to my Nikon D200 using a **Nikon MC-35 cable** (GPS adapter cable for RS232). I have not verified compatibility with other bodies or cables.
 
 ## Planned features
 
