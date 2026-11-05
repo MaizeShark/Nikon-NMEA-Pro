@@ -4314,7 +4314,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 111.76) (xy 240.03 113.03)
+			(xy 240.03 110.49) (xy 240.03 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4634,7 +4634,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 104.14) (xy 240.03 100.33)
+			(xy 240.03 102.87) (xy 240.03 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6865,6 +6865,17 @@
 				)
 			)
 		)
+		(property "TME" "CRCW0402100KFKED"
+			(at 233.68 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "445f2cf0-0f58-43f2-ab4c-30db2396f821")
 		)
@@ -6946,6 +6957,17 @@
 			)
 		)
 		(property "LCSC" "C60491"
+			(at 199.39 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CRCW0402100KFKED"
 			(at 199.39 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7126,6 +7148,17 @@
 				)
 			)
 		)
+		(property "TME" "UMK105B7104KV-FR"
+			(at 252.73 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1db5ccc9-d04e-445b-97ac-2f8344dd3b2e")
 		)
@@ -7211,6 +7244,17 @@
 		)
 		(property "LCSC" "C154900"
 			(at 218.44 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "BSS138DW-7-F"
+			(at 218.44 39.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7390,6 +7434,17 @@
 			)
 		)
 		(property "LCSC" "C2998110"
+			(at 264.16 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0402FR-0791RL"
 			(at 264.16 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -7647,6 +7702,17 @@
 				)
 			)
 		)
+		(property "TME" "RC0402FR-07200KL"
+			(at 57.15 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e5d91086-07d6-4f47-a869-a1606c86669b")
 		)
@@ -7807,6 +7873,17 @@
 			)
 		)
 		(property "LCSC" "C60491"
+			(at 29.21 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CRCW0402100KFKED"
 			(at 29.21 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8288,6 +8365,17 @@
 				)
 			)
 		)
+		(property "TME" "CRCW0402100KFKED"
+			(at 80.01 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a82dafca-a53f-4e4b-a538-e95d95664fde")
 		)
@@ -8371,6 +8459,17 @@
 			)
 		)
 		(property "LCSC" "C77020"
+			(at 38.1 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "UMK105B7104KV-FR"
 			(at 38.1 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -8587,6 +8686,17 @@
 				)
 			)
 		)
+		(property "TME" "RC0402FR-07200KL"
+			(at 80.01 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df53656f-6964-4ab1-bf74-3cc49fa15225")
 		)
@@ -8670,6 +8780,17 @@
 			)
 		)
 		(property "LCSC" "C2998080"
+			(at 30.48 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "ERJ2GEJ225X"
 			(at 30.48 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -9074,6 +9195,17 @@
 				)
 			)
 		)
+		(property "TME" "BSS138DW-7-F"
+			(at 241.3 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ee72c042-b5da-4c2a-8232-b8e29bab6c82")
 		)
@@ -9179,6 +9311,17 @@
 				)
 			)
 		)
+		(property "TME" "CRCW04024K70FKTDBC"
+			(at 99.06 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "07b07edd-1650-43fe-84c5-8b2b1d7dcbfa")
 		)
@@ -9264,6 +9407,17 @@
 		)
 		(property "LCSC" "C154900"
 			(at 207.01 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "BSS138DW-7-F"
+			(at 207.01 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9380,7 +9534,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 240.03 107.95 0)
+		(at 240.03 106.68 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9391,7 +9545,7 @@
 		(dnp no)
 		(uuid "7ffa9db1-7163-4225-9282-2ba968e0ea21")
 		(property "Reference" "R37"
-			(at 238.252 106.68 0)
+			(at 238.252 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9402,7 +9556,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 238.252 109.22 0)
+			(at 238.252 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9413,7 +9567,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 241.808 107.95 90)
+			(at 241.808 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9424,7 +9578,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 107.95 0)
+			(at 240.03 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9435,7 +9589,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 240.03 107.95 0)
+			(at 240.03 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9446,7 +9600,18 @@
 			)
 		)
 		(property "LCSC" "C60491"
-			(at 240.03 107.95 0)
+			(at 240.03 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CRCW0402100KFKED"
+			(at 240.03 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9537,6 +9702,17 @@
 			)
 		)
 		(property "LCSC" "C60491"
+			(at 210.82 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CRCW0402100KFKED"
 			(at 210.82 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9785,6 +9961,17 @@
 			)
 		)
 		(property "LCSC" "C60491"
+			(at 57.15 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "CRCW0402100KFKED"
 			(at 57.15 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -10122,6 +10309,17 @@
 				)
 			)
 		)
+		(property "TME" "CL10A475KQ8NNNC"
+			(at 142.24 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c331f9a1-62a5-42a2-9454-92b9da1020c7")
 		)
@@ -10215,6 +10413,17 @@
 				)
 			)
 		)
+		(property "TME" "CRCW04024K70FKTDBC"
+			(at 167.64 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e397f374-ac44-4a71-ad99-91a0cddb008e")
 		)
@@ -10295,6 +10504,17 @@
 			)
 		)
 		(property "LCSC" "C2998110"
+			(at 264.16 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0402FR-0791RL"
 			(at 264.16 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -10463,6 +10683,17 @@
 			)
 		)
 		(property "LCSC" "C2909343"
+			(at 105.41 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "SMD0402-27R-1%"
 			(at 105.41 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -10720,6 +10951,17 @@
 				)
 			)
 		)
+		(property "TME" "CRCW0402100KFKED"
+			(at 222.25 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5493d7da-2d13-4478-a787-1565d854cb81")
 		)
@@ -10802,6 +11044,17 @@
 			)
 		)
 		(property "LCSC" "C2906866"
+			(at 29.21 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "RC0402FR-07200KL"
 			(at 29.21 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11013,6 +11266,17 @@
 				)
 			)
 		)
+		(property "TME" "RC0402FR-0791RL"
+			(at 264.16 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5695673e-f45f-4bdb-a376-5c965eaa480d")
 		)
@@ -11106,6 +11370,17 @@
 				)
 			)
 		)
+		(property "TME" "UMK105B7104KV-FR"
+			(at 39.37 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0e897a09-fbf2-4c0c-a435-14ab7805c14b")
 		)
@@ -11188,6 +11463,17 @@
 			)
 		)
 		(property "LCSC" "C77020"
+			(at 96.52 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "UMK105B7104KV-FR"
 			(at 96.52 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -11291,6 +11577,17 @@
 				)
 			)
 		)
+		(property "TME" "RC0402FR-071ML"
+			(at 30.48 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0adaa550-01ee-4183-98d5-cbf1c67acb83")
 		)
@@ -11374,6 +11671,17 @@
 			)
 		)
 		(property "LCSC" "C77020"
+			(at 271.78 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "UMK105B7104KV-FR"
 			(at 271.78 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11540,6 +11848,17 @@
 			)
 		)
 		(property "LCSC" "C2909343"
+			(at 105.41 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "SMD0402-27R-1%"
 			(at 105.41 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -11722,6 +12041,17 @@
 				)
 			)
 		)
+		(property "TME" "BSS138DW-7-F"
+			(at 229.87 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ee72c042-b5da-4c2a-8232-b8e29bab6c83")
 		)
@@ -11824,6 +12154,17 @@
 				)
 			)
 		)
+		(property "TME" "SMD0402-130R"
+			(at 264.16 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62666ebc-27c5-4ac6-9850-f949579e2da3")
 		)
@@ -11894,17 +12235,6 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 96.52 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C262410"
 			(at 96.52 24.13 0)
 			(hide yes)
 			(show_name no)

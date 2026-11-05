@@ -9,7 +9,7 @@
 		(at 0 -3 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "6f3e8797-e2b5-4667-b8ee-4c2258396ab5")
+		(uuid "c9ee5f0e-3446-481e-9e99-46a5eb48e08f")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(at 0 1.9 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "cea09522-2b86-478c-8fad-87fae42c9605")
+		(uuid "1debd6e1-69b1-40b5-8404-a8bf3efba2ae")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ba9a606b-2cd6-462e-a423-3fbe49613e6b")
+		(uuid "4bd02c62-f323-4880-91d7-51d271fd1733")
 		(effects
 			(font
 				(size 1 1)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2d30f5d1-b4c4-4c6e-a386-5fb4c2593ea2")
+		(uuid "11360d23-9ea6-40c3-a059-526f6874a186")
 		(effects
 			(font
 				(size 1 1)
@@ -66,7 +66,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "7de02f43-a10f-4282-87a1-0f172944b0c2")
+		(uuid "5942b340-d540-4d06-81af-6f435b6ba921")
 	)
 	(fp_rect
 		(start -3.6 -1.9)
@@ -77,13 +77,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "457e68e0-91d0-4e97-8e46-3afc18f46c50")
+		(uuid "f8d5ca9a-f03a-439c-a443-734998159a4c")
 	)
 	(fp_text user "+"
 		(at -0.7 -1 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "6f43b26a-fa42-48c1-9115-f476c0333d88")
+		(uuid "a98d5080-335f-4f06-a072-3aa3d8b93289")
 		(effects
 			(font
 				(size 1 1)
@@ -95,7 +95,7 @@
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "8a422cdc-b66d-443e-8717-1a53d1f31650")
+		(uuid "1e5292a8-81be-40b7-8b81-f5cd2686fa17")
 		(effects
 			(font
 				(size 1 1)
@@ -105,21 +105,21 @@
 	)
 	(pad "1" thru_hole roundrect
 		(at -0.7 0)
-		(size 0.9 0.5)
-		(drill oval 0.55 0.25)
+		(size 1.2 0.9)
+		(drill oval 0.9 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "2f64a181-dd9d-490e-b655-b3e8227fe423")
+		(uuid "1a0eda39-c513-45fc-8082-d78baf49c829")
 	)
 	(pad "2" thru_hole roundrect
 		(at 0.7 0)
-		(size 0.9 0.5)
-		(drill oval 0.55 0.25)
+		(size 1.2 0.9)
+		(drill oval 0.9 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "9e1270c2-171e-4b24-a364-6196d4dbe3bc")
+		(uuid "5bd69f69-becf-4b6d-a6c2-e7e33d45d57f")
 	)
 	(embedded_fonts no)
 	(model "/home/niclas/Downloads/ML-621S_ZTN.stp"

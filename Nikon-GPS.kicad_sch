@@ -575,7 +575,7 @@
 				(justify right)
 			)
 		)
-		(pin "5V_USB" input
+		(pin "5V_USB" output
 			(at 127 82.55 0)
 			(uuid "e5e5a823-7742-4cd9-8b62-07f6622b7660")
 			(effects

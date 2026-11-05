@@ -2,8 +2,11 @@
 
 A low-power GNSS logger and BLE remote shutter for Nikon cameras with the 10-pin connector. It is a work in progress: the hardware is designed, the PCB has not been built or tested, and the firmware has not been started.
 
-![Nikon-NMEA-Pro PCB, front side](https://raw.githubusercontent.com/MaizeShark/Nikon-NMEA-Pro/refs/heads/main/docs/front.png)
-*Front of the PCB.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaizeShark/Nikon-NMEA-Pro/refs/heads/main/docs/front.png" alt="Nikon-NMEA-Pro PCB, front side" width="49%">
+  <img src="https://raw.githubusercontent.com/MaizeShark/Nikon-NMEA-Pro/refs/heads/main/docs/back.png" alt="Nikon-NMEA-Pro PCB, back side" width="49%">
+</p>
+<p align="center"><em>Front (left) and back (right) of the PCB.</em></p>
 
 ## Goals
 
